@@ -1,0 +1,61 @@
+cat deposition_Joe_Rugiani.txt
+sed '10,11d' deposition_Joe_Rugiani.txt
+
+cat deposition_Joe Rugiano.txt sed 's/cadillac_jaune/chevrolet_impala/g' deposition_Joe_Rugiani.txt
+
+cat tcpd_department.csv
+
+grep "Officer" tcpd_department.csv > tcpd_officer.txt
+
+grep "8" tcp_department.csv >> tcpd_expert_officer.txt
+
+
+grep "CLUE" crimscene
+
+grep -f AAA delta_SkyMiles > preuve.txt
+grep -f Museum_of_Bash_History Terminal_City_Library > preuve2.txt
+grep -f preuve2.txt preuve.txt > preuve3.txt
+
+grep Annabel people > annabel.txt
+
+grep Buckingham_Place streets > adresse.txt
+
+awk NR==179 Buckingham_Place
+
+awk NR==40 Hart_Place
+
+cat interview 699607
+
+cat interview 7246024
+
+cat vehicles
+grep L337 vehicles > suspect.txt
+
+cd membership 
+
+cat preuve3.txt
+Jeremy Bowers
+
+
+Rapport de Police par inspecteur Rayane Guelai Chef Suppreme des Forces de police
+
+dans le Dossier Preuve crée par mes collegues j'ai trouver 3 bonne pistes 
+
+La premier une video d'une camera de surveillance flou malheusement qui nous montre le suspect un homme grand de plus ou moin 6ft(1;82)
+
+Sur la scene de crime un porte feuille a été trouver aussi contenant plusieur carte membre dont AAA,Delta SkyMiles,Local Library et le muser de Bash History
+et un peu de monnaie aussi
+
+Nous avons aussi questionner le barrista du café du coin il dit avoir vue une femme quitté le restaurant avant le tire
+
+Le nom sur le café etais Annabel elle avais un accent neo zelandais elle etais blonde avec des cheveux herrisé
+
+Apres avoir fait le tour des personne dans ses club on obtient une liste de nom
+
+Apres l'interview de Annabel Church on apprend le modele de voiture la couleur et
+meme un morçeau de plaque d'immatriculation L337 et qui finit par 9 la voiture et une honda bleu
+
+qui revien a un ficher de plusieur suspect le seule moyen de les departager c'est les carte d'abonement
+en croisant les ficher on obtien let nom de JEREMY BOWERS!!!!!
+
+Voila merci a vous Inspecteur Rayane Guelai concurent de sherlock holmes

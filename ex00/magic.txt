@@ -1,0 +1,3 @@
+sed '10,11d' deposition_Joe_Rugiani.txt
+vim I j'ai changer puis echap :wq
+sed 's/chvrolet/bugati/g' deposition_Joe Rugiani.txt
