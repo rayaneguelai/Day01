@@ -1,4 +1,2 @@
-sed '10,11d' deposition_Joe_Rugiani.txt
-vim I j'ai changer puis echap :wq
-sed 's/cardillac/chevrolet/g' deposition_Joe Rugiani.txt
-sed 's/rouge/vert/g' deposition_Joe_Rugiani.txt
+sed -i ".bak"'$D
+sed -i ".bak"'$D
