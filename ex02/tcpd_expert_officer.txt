@@ -1,1 +1,1 @@
-Cameron,Officer,8
+awk -F '(officer/) && ($3>8) tcpd_department.csv
